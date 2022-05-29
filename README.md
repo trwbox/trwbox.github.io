@@ -1,3 +1,7 @@
-# trwbox.com
+# Trent Walraven Resume
 
-This is a basic readme page for the github for my website, for the github page. I need to fill out the rest of the information for this page, however until then. Please visit [trwbox.com](http://www.trwbox.com)
+This is the statically hosted website for Trent Walraven at [trwbox.com](https://www.trwbox.com). There may be pages that can be viewed in the Github markdown viewer, but I suggest going to the website for the best viewing experience.
+
+## Theme Used
+
+### [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)

@@ -1,0 +1,35 @@
+# Authors
+
+Example Author:
+  name        : "Example Name"
+  bio         : "This is an example bio. It can say anything you want"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:example@example.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://example.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/example"
+
+Trent Walraven Resume:
+  name        : "Trent Walraven"
+  bio         : "Iowa State University 2024 - Cyber Security"
+  avatar      : "/assets/images/ProfilePic.jpg"
+  location    : "Ames, IA"
+  links:
+    - label: "portfolio@trwbox.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:portfolio@trwbox.com"
+    - label: "(773) 850-1387"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:773-850-1387"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/trwbox"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/trent-walraven"

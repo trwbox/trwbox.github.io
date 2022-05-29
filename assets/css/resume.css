@@ -1,0 +1,56 @@
+h1 {
+  margin: 1em 0 0.5em;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+h2, h3, h4, h5, h6 {
+  margin: .5em 0 0.2em;
+  line-height: 1.2;
+  font-weight: bold;
+  padding-bottom: 0px !important;
+}
+
+li {
+  margin-bottom: 0.1em !important;
+  margin-top: 0.1em !important;
+  font-size: 0.8em;
+}
+
+ul {
+  margin-top: 0.1em;
+  margin-bottom: 0.5em;
+  padding-left: 20px
+}
+
+li ul {
+  font-size: 1.2em;
+  margin-top: 0em;
+  margin-bottom: 0.6em;
+}
+
+/* Stuff to make the areas side by side? */
+.column2 {
+  float: left;
+  width: 50%;
+}
+
+.column3 {
+  float: left;
+  width: 33.33%;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0px;
+  font-size: 15px;
+}
+
+.column3 ul {
+  font-size: 1.2em;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+

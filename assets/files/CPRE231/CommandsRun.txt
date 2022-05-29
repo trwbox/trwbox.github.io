@@ -1,0 +1,4 @@
+ .\hashcat.exe -m 1000 hashes.txt -a 0 wordlist.txt -d 1 -r toggles-lm-ntlm.rule --show --username // Shows cracked NTLM hashes
+ .\hashcat.exe -m 1000 hashes.txt -a 0 wordlist.txt -d 1 -r toggles-lm-ntlm.rule // Cracks NTLM hashes with the passwords from LM, and the rulelist from the link
+ .\hashcat.exe -a 3 -m 3000 hashes.txt --show --username // Shows cracked LM Hashes
+ .\hashcat.exe -a 3 -m 3000 hashes.txt -d 1 -1 ?u?d?s ?1?1?1?1?1?1?1 --increment // Cracks LM hashes with a brute-force attack that increments.

@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Resume"
+    url: /resume/
+  - title: "Portfolio"
+    url: /portfolio/
+#  - title: "Projects"
+#    url: /projects/
+#  - title: "About"
+#    url: /about/
+  - title: "Blog Posts"
+    url: /blog/
+  - title: "Collections"
+    url: /collection-archive/
+#  - title: "Terms &amp; Privacy Policy"
+#    url: /terms/
