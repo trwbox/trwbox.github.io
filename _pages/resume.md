@@ -20,11 +20,6 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
   - Expected Graduation May 2024
   - GPA 3.90/4.0
   
-### **Knoxville High School** {{underline}}
-
-- Graduated May 2020
-  - GPA 4.0/4.0
-
 ## Activities and Leadership {{underline}}
 
 ### Cyber Defense Competition
@@ -45,6 +40,12 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
   - Social Chair
     - January 2021 - May 2022
 
+### John Deere Cyber Tractor Challenge
+
+- An event where students were brought in the test the security of John Deere equipment
+  - July 2022
+- [Blog Post with more information](/posts/Cyber-Tractor-Challenge)
+
 ### National Association of Secretary of States Security Conference
 
 - 2021 Conference Volunteer
@@ -61,16 +62,11 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
 
 - September 2020 - December 2021
 
-### Knoxville High School
-
-- Elected Science Club President by Peers
-- Elected Cross Country Team Captain by Peers
-
 ## Employment {{underline}}
 
 ### John Deere (Ames, Iowa)
 
-<p style="font-size: .9em; margin: 0;"><em>Cloud Security Team Intern</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>May 2022 - Present</strong></p>
+<p style="font-size: .9em; margin: 0;"><em>Cloud Controls Team Intern</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>May 2022 - Present</strong></p>
 - Helping secure John Deere's AWS environment
 - Writing scripts to automate the security checks for AWS resources
 
@@ -127,7 +123,7 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
 
 ### CPRE288 Embedded Systems Robot Programming
 
-- Implementing functions of a microcontroller connected to a robot to control the bot to complete a mission 
+- Implementing functions of a microcontroller connected to a robot to control the bot to complete a mission
 
 ### LED Graduation Cap
 
