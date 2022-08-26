@@ -66,7 +66,10 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
 
 ### John Deere (Ames, Iowa)
 
-<p style="font-size: .9em; margin: 0;"><em>Cloud Controls Team Intern</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>May 2022 - Present</strong></p>
+<p style="font-size: .9em; margin: 0;"><em>Embedded Security Testing Team Part Time Student</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>August 2022 - Present</strong></p>
+- Testing product security of John Deere equipment
+
+<p style="font-size: .9em; margin: 0;"><em>Cloud Controls Team Intern</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>May 2022 - August 2022</strong></p>
 - Helping secure John Deere's AWS environment
 - Writing scripts to automate the security checks for AWS resources
 
