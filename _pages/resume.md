@@ -22,13 +22,11 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
   
 ## Activities and Leadership {{underline}}
 
-### Cyber Defense Competition
+### John Deere Cyber Tractor Challenge
 
-- Competitions Competed
-  - Spring 2020
-  - Fall 2021 (1st Place)
-  - Nationals Spring 2022
-  - Spring 2022 (2nd Place)
+- An event where students were brought in the test the security of John Deere equipment
+  - July 2022
+  - [Blog Post with more information](/posts/Cyber-Tractor-Challenge)
 
 ### Information Assurance Student Group
 
@@ -40,11 +38,13 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
   - Social Chair
     - January 2021 - May 2022
 
-### John Deere Cyber Tractor Challenge
+### Cyber Defense Competition
 
-- An event where students were brought in the test the security of John Deere equipment
-  - July 2022
-- [Blog Post with more information](/posts/Cyber-Tractor-Challenge)
+- Competitions Competed
+  - Spring 2020
+  - Fall 2021 (1st Place)
+  - Nationals Spring 2022
+  - Spring 2022 (2nd Place)
 
 ### National Association of Secretary of States Security Conference
 
@@ -60,14 +60,15 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
 
 ### Quiz Bowl Team
 
-- September 2020 - December 2021
+- September 2020 - Present
 
 ## Employment {{underline}}
 
 ### John Deere (Ames, Iowa)
 
 <p style="font-size: .9em; margin: 0;"><em>Embedded Security Testing Team Part Time Student</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>August 2022 - Present</strong></p>
-- Testing product security of John Deere equipment
+- Helping John Deere test the security of their embedded devices
+- Creating tools to allow further testing of embedded systems
 
 <p style="font-size: .9em; margin: 0;"><em>Cloud Controls Team Intern</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>May 2022 - August 2022</strong></p>
 - Helping secure John Deere's AWS environment
@@ -80,12 +81,6 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
 - Interaction and greeting of customers coming into the store
 - Time management skills to get all needed work done before close
 - Think and design new eye-pleasing layouts on the fly as items run out
-- Continue to courtesy as needed
-
-<p style="font-size: .9em; margin: 0;"><em>Courtesy</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>August 2018 - December 2018</strong></p>
-- Prolonged conversations with customers as groceries are brought out to their vehicle
-- Quickly finished tasks like stacking groceries to not leave a customer waiting
--  Worked with other courtesies to stock shelves in between customers being taken out
 
 ## Skills {{underline}}
 
