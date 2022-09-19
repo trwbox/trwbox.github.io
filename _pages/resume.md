@@ -1,6 +1,6 @@
 ---
 # This page has a lot of custom CSS in resume.css, and things in its custom layout in resume.html
-custom_bio: "Iowa State University 2024 - Cyber Security Engineering"
+custom_bio: "Iowa State University 2024<br>Cyber Security Engineering"
 title: "Trent Walraven - Resume"
 author: Trent Walraven Resume
 layout: resume
@@ -84,6 +84,10 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
 
 ## Skills {{underline}}
 
+### Certifications
+
+- [AWS: Certified Cloud Practitioner](https://www.credly.com/badges/10cfa6da-e5e9-48e3-8fb7-65577a226488/linked_in?t=repi47){:target="_blank"}
+
 <div class="row">
   <div class="column3">
     <h3 id="software-and-tools">Software and Tools</h3>
@@ -93,6 +97,7 @@ For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_
       <li>Linux Command Line</li>
       <li>Metasploit</li>
       <li>Embedded Microcontroller Programming</li>
+      <li>PFsense/OPNSense</li>
       <li>Jekyll Static Websites</li>
     </ul>
   </div>
