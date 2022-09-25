@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  #gem 'jekyll-pdf', :git => 'https://github.com/jekyll-pdf/jekyll-pdf.git', :branch => 'master'
 end
