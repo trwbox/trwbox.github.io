@@ -8,6 +8,7 @@ permalink: /resume/
 author_profile: true
 last_modified_at: 2022-05-29
 classes: wide
+pdf: true
 ---
 
 For a PDF version of my resume click [here](/assets/files/resume.pdf){:target="_blank"}
