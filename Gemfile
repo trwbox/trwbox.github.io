@@ -17,3 +17,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   #gem 'jekyll-pdf', :git => 'https://github.com/jekyll-pdf/jekyll-pdf.git', :branch => 'master'
 end
+
+gem "webrick", "~> 1.7"
