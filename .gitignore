@@ -33,7 +33,6 @@ _site
 *.code-workspace
 
 # Serving scripts
-serve.sh
 globalserve.sh
 
 # Draft files and pages
